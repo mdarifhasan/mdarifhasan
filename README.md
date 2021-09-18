@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Arif hasan
+#### Execute your thought through my coe
+![Execute your thought through my coe](https://scontent.fdac41-1.fna.fbcdn.net/v/t1.6435-9/241791368_304386978118358_7780551166173733873_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=e3f864&_nc_ohc=SnuCWeNRI4wAX_2lzoz&_nc_ht=scontent.fdac41-1.fna&oh=020719a14ab75b73ee74933207bea30c&oe=616CD003)
 
-<!--
-**mdarifhasan/mdarifhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me
 
-Here are some ideas to get you started:
+Skills: Wordpress / PHP/ JS / HTML / CSS / Bootstrap /SCSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
